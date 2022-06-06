@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "European Quest",
+    "countries": 11,
+    "days": 25,
+    "imageSrc": "trip1.png",
+    "imageAlt": "trip image",
+    "rating": 4.6,
+    "currentPrice": 2877,
+    "lastPrice": 3385
+  },
+  {
+    "id": 2,
+    "title": "Simply Italy",
+    "countries": 2,
+    "days": 15,
+    "imageSrc": "trip2.png",
+    "imageAlt": "trip image",
+    "rating": 4.4,
+    "currentPrice": 1832,
+    "lastPrice": 2155
+  },
+  {
+    "id": 3,
+    "title": "Italian Espresso",
+    "countries": 1,
+    "days": 10,
+    "imageSrc": "trip3.png",
+    "imageAlt": "trip image",
+    "rating": 4.5,
+    "currentPrice": 1245,
+    "lastPrice": 1465
+  }
+]
